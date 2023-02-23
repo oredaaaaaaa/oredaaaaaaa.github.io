@@ -1,3 +1,14 @@
 html {
   height: 100%;
 }
+
+h1 {
+  color: green;
+  font-size: 90px;/* フォントの大きさ */
+  font-family: lobster;/* フォントの種類 */
+  text-align: center;/* 文字・画像を中央にそろえる */
+  height: 320px;/* 高さ */
+  padding-top: 40px;/* 上がわの余白 */
+  background-repeat: no-repeat;/* 背景のくり返しをやめる */
+  background-position: top center;/* 背景の位置 */
+}
