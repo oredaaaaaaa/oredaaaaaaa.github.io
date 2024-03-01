@@ -1,0 +1,10 @@
+.mainColumnMovie{
+    padding: 0 20%;
+    background-image: url(../src/image/bgMovie.png);
+    background-repeat: repeat;
+}
+
+.movieBodyList{
+    font-weight: bold;
+    margin-bottom: 2rem;
+}

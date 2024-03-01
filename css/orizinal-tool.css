@@ -1,0 +1,5 @@
+.mainColumnStage{
+    padding: 0 20%;
+    background-image: url(../src/image/bgStage.png);
+    background-repeat: repeat;
+}

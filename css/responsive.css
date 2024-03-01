@@ -1,0 +1,133 @@
+@media screen and (max-width: 480px){
+
+    /* common
+    ------------------------------------------------ */
+    body{
+        display: block;
+    }
+    .sidebar{
+        width: 100%;
+        overflow-x: auto;
+        height: auto;
+    }
+
+    .mainColumn{
+        margin-left: 0%;
+        width: 100%;
+    }
+
+    h1{
+        padding-top: 4rem;
+        font-size: 1.8rem;
+    }
+
+    h2{
+        padding-top: 4rem;
+        font-size: 1.5rem;
+    }
+
+    /* sidebar
+    ------------------------------------------------ */
+    .sidebar > ul{
+        width: 100%;
+        display: flex;
+        margin-left: 0rem;
+        margin-top: 0rem;
+    }
+
+    .sideLink{
+        font-size: 0.9rem;
+    }
+
+    .sideLink a {
+        display: inline-block;
+        position: static;
+        width: 7rem;
+    }
+
+    .sideLink::marker {
+        font-size: 2.0rem;
+        line-height: 2rem;
+    }
+
+    /* top
+    ------------------------------------------------ */
+    .topBody{
+        flex-wrap: wrap;
+    }
+
+    .topBodyLeft{
+        width: 100%;
+    }
+    
+    .topBodyRight{
+        width: 100%;
+    }
+
+    .topProfileImg{
+        width: 100%;
+    }
+
+    .topProfileItem{
+        width: 70%;
+    }
+
+    .topInfoItemBody{
+        margin-left: 2rem;
+    }
+
+    /* profile
+    ------------------------------------------------ */
+    .mainColumnProfile{
+        padding: 0 10%;
+    }
+
+    .profileBodyItem{
+        flex-wrap: wrap;
+    }
+
+    .profileBodyItemLabel{
+        width: 100%;
+    }
+    
+    .profileBodyItemValue{
+        margin: 0 5%;
+        width: 90%;
+    }
+
+    /* movie
+    ------------------------------------------------ */
+    .mainColumnMovie{
+        padding: 0 5%;
+    }
+
+    /* drama
+    ------------------------------------------------ */
+    .mainColumnDrama{
+        padding: 0 5%;
+    }
+
+    /* stage
+    ------------------------------------------------ */
+    .mainColumnStage{
+        padding: 0 5%;
+    }
+
+    /* photobook
+    ------------------------------------------------ */
+    .mainColumnPhotobook{
+        padding: 0 5%;
+    }
+
+    /* book
+    ------------------------------------------------ */
+    .mainColumnBook{
+        padding: 0 5%;
+    }
+
+    /* manager
+    ------------------------------------------------ */
+    .mainColumnManager{
+        padding: 0 10%;
+    }
+}

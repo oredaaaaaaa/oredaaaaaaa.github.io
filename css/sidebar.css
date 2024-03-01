@@ -1,0 +1,47 @@
+.sidebar > ul{
+    margin-left: 1rem;
+    margin-top: 3rem;
+}
+
+.sideLink::marker {
+    font-size: 3.3rem;
+    line-height: 4rem;
+}
+
+.sideLink{
+    position: relative;
+}
+
+.sideLink a {
+    position: absolute;
+    top: 1.6rem;
+    left: -0.7rem;
+}
+
+.sideLinkTop{
+    color: #fbc4ae;
+}
+
+.sideLinkMovie{
+    color: #66df4b;
+}
+
+.sideLinkDrama{
+    color: #79e5e8;
+}
+
+.sideLinkStage{
+    color: #3389d4;
+}
+
+.sideLinkPhotobook{
+    color: #333ced;
+}
+
+.sideLinkBook{
+    color: #1c217a;
+}
+
+.sideLinkManager{
+    color: #d420b3;
+}

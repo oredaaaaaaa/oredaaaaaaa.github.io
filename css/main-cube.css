@@ -1,0 +1,5 @@
+.mainColumnPhotobook{
+    padding: 0 20%;
+    background-image: url(../src/image/bgTop.png);
+    background-repeat: repeat;
+}
