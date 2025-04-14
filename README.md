@@ -7,7 +7,7 @@
 
 ↓リンク
 
-https://oredaaaaaaa.github.io
+https://yamanote-f2l.github.io
 
 # メンテナンス
 ~~半年に一回(4月と10月)にメンテナンスを行い古い情報や誤字脱字を修正します。~~
